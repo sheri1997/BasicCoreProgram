@@ -1,0 +1,16 @@
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.csproj.AssemblyReference.cache
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.AssemblyInfoInputs.cache
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.AssemblyInfo.cs
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.csproj.CoreCompileInputs.cache
+D:\Brize\github\BasicCoreProgram\bin\Debug\net5.0\BasicCoreProgram.exe
+D:\Brize\github\BasicCoreProgram\bin\Debug\net5.0\BasicCoreProgram.deps.json
+D:\Brize\github\BasicCoreProgram\bin\Debug\net5.0\BasicCoreProgram.runtimeconfig.json
+D:\Brize\github\BasicCoreProgram\bin\Debug\net5.0\BasicCoreProgram.runtimeconfig.dev.json
+D:\Brize\github\BasicCoreProgram\bin\Debug\net5.0\BasicCoreProgram.dll
+D:\Brize\github\BasicCoreProgram\bin\Debug\net5.0\ref\BasicCoreProgram.dll
+D:\Brize\github\BasicCoreProgram\bin\Debug\net5.0\BasicCoreProgram.pdb
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.dll
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\ref\BasicCoreProgram.dll
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.pdb
+D:\Brize\github\BasicCoreProgram\obj\Debug\net5.0\BasicCoreProgram.genruntimeconfig.cache
